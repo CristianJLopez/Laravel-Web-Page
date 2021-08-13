@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About ArtistApp
 
 ![Artist](https://user-images.githubusercontent.com/58754599/129291424-46313d01-377b-4d23-9abd-508e5ce2d53d.PNG)
 
